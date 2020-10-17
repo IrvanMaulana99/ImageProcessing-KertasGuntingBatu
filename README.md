@@ -19,7 +19,7 @@ Dataset Sumber :
 https://www.kaggle.com/drgfreeman/rockpaperscissors
 
 Dataset yang telah dibuat kembali untuk projek :
-https://drive.google.com/drive/folders/1v7h8xu7TAGr09G1OKWsizNUo35-CDOY-?usp=sharing
+https://drive.google.com/file/d/1YxFMD7twky7JD3QHbAY4Tc6gv6CqmJQP/view?usp=sharing
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
