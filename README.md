@@ -18,8 +18,6 @@ Google Colab
 Dataset Sumber :
 https://www.kaggle.com/drgfreeman/rockpaperscissors
 
-Dataset yang telah dibuat kembali untuk projek :
-https://drive.google.com/file/d/1YxFMD7twky7JD3QHbAY4Tc6gv6CqmJQP/view?usp=sharing
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
